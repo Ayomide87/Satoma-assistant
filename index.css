@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.voiceSpeak{
+   margin-top: 70px;
+}
+
+img{
+   border-radius: 110%;
+   width: 34%;
+   margin-top: 10%;
+   margin-left: 160px;
+}
+
+span{
+    margin-left: 70px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+button{
+    width: 400px;
+    margin-left: 40px;
+    border-radius: 23px;
+    padding: 12px;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: grey;
+    color: white;
+ }
+    
